@@ -20,7 +20,7 @@ Resources
 ## JavaScript
 
 * [JS for Cats](http://www.jsforcats.com)
-* [Eloquent JavaScript](http://http://eloquentjavascript.net/)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) @ MDN
 
 
@@ -132,7 +132,7 @@ Resources
 * [Idea Stack Web Hosting](https://www.ideastackhosting.com/)
 * [Namecheap](https://www.namecheap.com/)
 * [BlueVM](https://bluevm.com/)
-* [DevDocs](http://devdocs.io/) # documentation curated
+* [DevDocs](http://devdocs.io/) # curated documentation
 * [Pexels](http://www.pexels.com/)
 
 
