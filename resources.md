@@ -9,6 +9,14 @@ Resources
 * [ZetCode](http://zetcode.com/)
 
 
+## Git
+* [Pro Git](http://git-scm.com/book)
+* [Try Git](https://try.github.io/levels/1/challenges/1) # created by Code School and sponsored by GitHub
+* [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorial)
+* [Git Immersion](http://gitimmersion.com/)
+
+
 ## Python
 
 * [Dive Into Python 3](http://www.diveintopython3.net/)
