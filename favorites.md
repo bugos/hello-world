@@ -12,6 +12,8 @@ Favorites
 * [Math Experts Split the Check](http://mathwithbaddrawings.com/2013/08/21/five-math-experts-split-the-check/)
 * [Is Go an Object Oriented language?](http://spf13.com/post/is-go-object-oriented)
 * [Why Your Professors Suck](http://zacharyernst.blogspot.gr/2013/06/why-your-professors-suck_23.html?spref=tw)
+* [Sleep: Everything You Need To Know](https://medium.com/the-healthy-life/sleep-everything-you-need-to-know-b65f8e19ed18)
+* [Dizzying but invisible depth](https://plus.google.com/+JeanBaptisteQueru/posts/dfydM2Cnepe) by JBQ
 
 
 ## Articles
@@ -22,6 +24,7 @@ Favorites
 * [Why Don't We Value Spatial Intelligence?](http://www.psychologytoday.com/blog/finding-the-next-einstein/201203/why-dont-we-value-spatial-intelligence)
 * [Coffee naps are better than coffee or naps alone](http://www.vox.com/2014/8/28/6074177/coffee-naps-caffeine-science)
 * [Spaced Repetition & Learning](http://www.gwern.net/Spaced%20repetition) by gwern
+* [Scott Adams' Secret of Success: Failure](http://online.wsj.com/news/articles/SB10001424052702304626104579121813075903866)
 
 
 ## Wikipedia
