@@ -56,8 +56,7 @@ Favorites
 * [Uncertainty principle](https://en.wikipedia.org/wiki/Uncertainty_principle)
 * [Hapax legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon)
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
-
-
+* [Pythagorean cup](https://en.wikipedia.org/wiki/Pythagorean_cup)
 
 
 ## Talks
