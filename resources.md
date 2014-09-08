@@ -89,6 +89,7 @@ Resources
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 * [Color Stack](http://pankajparashar.com/color-stack/)
 * [FlatUI Colors](http://flatuicolors.com/)
+* [uiGradient](http://uigradients.com/)
 * [Guideline Color](http://guidelinecolour.com/)
 * [Brand Colors](http://brandcolors.net/)
 
