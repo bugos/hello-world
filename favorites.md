@@ -29,7 +29,7 @@ Favorites
 * [Coffee naps are better than coffee or naps alone](http://www.vox.com/2014/8/28/6074177/coffee-naps-caffeine-science)
 * [Spaced Repetition & Learning](http://www.gwern.net/Spaced%20repetition) by gwern
 * [Scott Adams' Secret of Success: Failure](http://online.wsj.com/news/articles/SB10001424052702304626104579121813075903866)
-* [http://www.bbc.com/future/story/20140905-the-women-with-super-human-vision](http://www.bbc.com/future/story/20140905-the-women-with-super-human-vision)
+* [The women with superhuman vision](http://www.bbc.com/future/story/20140905-the-women-with-super-human-vision)
 * [Why do we have blood types?](http://www.bbc.com/future/story/20140715-why-do-we-have-blood-types)
 * [Why Flunking Exams Is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
 * [Why We Procrastinate](http://nautil.us/issue/16/nothingness/why-we-procrastinate)
