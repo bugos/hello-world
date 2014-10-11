@@ -14,6 +14,10 @@ Favorites
 * [Why Your Professors Suck](http://zacharyernst.blogspot.gr/2013/06/why-your-professors-suck_23.html?spref=tw)
 * [Sleep: Everything You Need To Know](https://medium.com/the-healthy-life/sleep-everything-you-need-to-know-b65f8e19ed18)
 * [Dizzying but invisible depth](https://plus.google.com/+JeanBaptisteQueru/posts/dfydM2Cnepe) by JBQ
+* [Why I want Bitcoin to die in a fire](http://www.antipope.org/charlie/blog-static/2013/12/why-i-want-bitcoin-to-die-in-a.html)  by Charlie Stross
+* [Ask HN: Why would a government have created bitcoin?](https://news.ycombinator.com/item?id=5547423)
+* [Good and Bad Procrastination](http://paulgraham.com/procrastination.html)
+* [Why Nerds are Unpopular](http://paulgraham.com/procrastination.html)
 
 
 ## Articles
@@ -25,6 +29,16 @@ Favorites
 * [Coffee naps are better than coffee or naps alone](http://www.vox.com/2014/8/28/6074177/coffee-naps-caffeine-science)
 * [Spaced Repetition & Learning](http://www.gwern.net/Spaced%20repetition) by gwern
 * [Scott Adams' Secret of Success: Failure](http://online.wsj.com/news/articles/SB10001424052702304626104579121813075903866)
+* [http://www.bbc.com/future/story/20140905-the-women-with-super-human-vision](http://www.bbc.com/future/story/20140905-the-women-with-super-human-vision)
+* [Why do we have blood types?](http://www.bbc.com/future/story/20140715-why-do-we-have-blood-types)
+* [Why Flunking Exams Is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
+* [Why We Procrastinate](http://nautil.us/issue/16/nothingness/why-we-procrastinate)
+* [Ants Swarm Like Brains Think](http://nautil.us/issue/12/feedback/ants-swarm-like-brains-think)
+* [Our Use Of Little Words Can, Uh, Reveal Hidden Interests](http://www.npr.org/blogs/health/2014/09/01/344043763/our-use-of-little-words-can-uh-reveal-hidden-interests)
+* [Learning How to Exert Self-Control](http://www.nytimes.com/2014/09/14/opinion/sunday/learning-self-control.html)
+* [Memory: Why cramming for tests often fails](http://www.bbc.com/future/story/20140917-the-worst-way-to-learn)
+* [Brain: Why exercise boosts IQ](http://www.bbc.com/future/story/20141010-why-exercise-boosts-iq)
+* [Attention](http://www.newyorker.com/tech/elements/anatomy-attention)
 
 
 ## Wikipedia
@@ -35,9 +49,9 @@ Favorites
 * [List of common misconceptions](http://en.wikipedia.org/wiki/List_of_common_misconceptions)
 * [Ice](https://en.wikipedia.org/wiki/Ice)
 * [Supervenience](https://en.wikipedia.org/wiki/Supervenience)
-* [Phantom_time_hypothesis](https://en.wikipedia.org/wiki/Phantom_time_hypothesis)
+* [Phantom time hypothesis](https://en.wikipedia.org/wiki/Phantom_time_hypothesis)
 * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
-* [Diffie–Hellman_key_exchange](https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange)
+* [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange)
 * [Cupping therapy](https://en.wikipedia.org/wiki/Cupping_therapy)
 * [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale)
 * [Rotoscoping](https://en.wikipedia.org/wiki/Rotoscoping)
@@ -57,6 +71,9 @@ Favorites
 * [Hapax legomenon](https://en.wikipedia.org/wiki/Hapax_legomenon)
 * [Hyperloop](https://en.wikipedia.org/wiki/Hyperloop)
 * [Pythagorean cup](https://en.wikipedia.org/wiki/Pythagorean_cup)
+* [Trojan Room coffee pot](https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot)
+* [Nils Olav](http://en.wikipedia.org/wiki/Nils_Olav)
+* [Turritopsis dohrnii](http://en.wikipedia.org/wiki/Turritopsis_dohrnii)
 
 
 ## Talks

@@ -141,13 +141,17 @@ Resources
 * [Idea Stack Web Hosting](https://www.ideastackhosting.com/)
 * [Namecheap](https://www.namecheap.com/)
 * [BlueVM](https://bluevm.com/)
+* [Atlantic](https://www.atlantic.net/)
 * [DevDocs](http://devdocs.io/) # curated documentation
 * [Pexels](http://www.pexels.com/)
 
 
 ## Dot Files
 
-* [.bashrc](https://gist.github.com/sirodoht/8125022)
+* [.bashrc](https://gist.github.com/sirodoht/8125022) # non-root user
+* [.bashrc](https://gist.github.com/sirodoht/45a08aa5f8c72ae6e5ce) # root user
+* [.bash_profile](https://gist.github.com/sirodoht/ee9106d540b1b4c87389)
+* [.gitconfig](https://gist.github.com/sirodoht/2a20a65483b9dceebd31)
 * [config](https://gist.github.com/sirodoht/b9059bbf08efcaa655ab) # i3 wm config file
 * [i3status.conf](https://gist.github.com/sirodoht/21d039ed7b6a0601256d) # i3 status bar / i3bar
 * [.vimrc](https://gist.github.com/sirodoht/c22269885b0265dc64e9)
