@@ -39,7 +39,7 @@ Resources
 
 ## Node.js
 
-**Books**
+### Books
 
 * [Node.js the Right Way](http://shop.oreilly.com/product/9781937785734.do)
 * [Node Cookbook, 2nd Edition](http://shop.oreilly.com/product/9781783280438.do)
@@ -51,7 +51,7 @@ Resources
 * [Building Node Applications with MongoDB and Backbone](https://play.google.com/store/books/details/Mike_Wilson_Building_Node_Applications_with_MongoD?id=aRLyxbyMeVEC)
 * [Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript](https://play.google.com/store/books/details/Marc_Wandschneider_Learning_Node_js?id=AmMibho26OEC)
 
-**Guides**
+### Guides
 
 * [Art of Node](https://github.com/maxogden/art-of-node) by @maxogden
 * [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
@@ -60,11 +60,11 @@ Resources
 * [NodeSchool](http://www.nodeschool.io)
 * [Mastering Node](http://visionmedia.github.io/masteringnode/)
 
-**Video Tutorials**
+### Video Tutorials
 
 * [Node Tuts](http://nodetuts.com/)
 
-**Meta**
+### Meta
 
 * [Node for Beginners](https://github.com/rockbot/node-for-beginners) by @rockbot
 * [Node.js Books](https://github.com/Pana/node-books)
@@ -73,7 +73,7 @@ Resources
 
 ## Front end
 
-**Layout**
+### Layout
 
 * [HTML & CSS](http://learn.shayhowe.com/html-css/) by Shay Howe
 * [Learn CSS Layout](http://learnlayout.com/) by @boucoup
@@ -81,7 +81,8 @@ Resources
 * [WTF CSS](http://wtfhtmlcss.com/) by @mdo
 * [Beautiful Open](http://beautifulopen.com/) source sites by @trek
 
-**Every Color**
+### Every Color
+
 * [Colour Code](http://colourco.de/)
 * [Color Hexa](http://www.colorhexa.com/)
 * [ColorCombos](http://www.colorcombos.com/)
@@ -90,7 +91,8 @@ Resources
 * [Random Color](http://llllll.li/randomColor/)
 * [Paletton](http://www.paletton.com/)
 
-**Specific Colors**
+### Specific Colors
+
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 * [Color Stack](http://pankajparashar.com/color-stack/)
 * [FlatUI Colors](http://flatuicolors.com/)
@@ -98,11 +100,13 @@ Resources
 * [Guideline Color](http://guidelinecolour.com/)
 * [Brand Colors](http://brandcolors.net/)
 
-**Patterns**
+### Patterns
+
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [texturecrate](http://www.texturecrate.com/)
 
-**Icons**
+### Icons
+
 * [Font Awesome](http://fontawesome.io/)
 * [GitHub Octicons](https://octicons.github.com/)
 * [Noun Project](http://thenounproject.com/)
@@ -112,9 +116,12 @@ Resources
 * [IconMoon](https://icomoon.io/app/#/select)
 * [LivIcons](http://livicons.com/)
 * [iconmnstr](http://iconmonstr.com/)
+* [Devicons](http://vorillaz.github.io/devicons/)
+* [Ionicons](http://ionicons.com/)
 * [Flaticons](http://www.flaticon.com/) # list
 
-**Typography**
+### Typography
+
 * [Butterick’s Practical Typography](http://practicaltypography.com/)
 * [Modular Scale](http://modularscale.com/)
 * [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography)
