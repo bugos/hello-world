@@ -1,6 +1,11 @@
 Resources
 =========
 
+## Awesome
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) by @bayandin
+* [awesome](https://github.com/sindresorhus/awesome) by @sindresorhus
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp
+
 ## Tutorial places
 
 * [Code School](https://www.codeschool.com/)
