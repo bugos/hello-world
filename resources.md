@@ -156,6 +156,7 @@ Resources
 * [Atlantic](https://www.atlantic.net/)
 * [DevDocs](http://devdocs.io/) # curated documentation
 * [Pexels](http://www.pexels.com/)
+* [Dillinger](http://dillinger.io/) # online markdown editor
 
 
 ## Dot Files
