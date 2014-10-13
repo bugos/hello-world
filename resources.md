@@ -173,7 +173,7 @@ Resources
 * [.conkyrc](https://gist.github.com/sirodoht/3e6d6f691487a957b5fc)
 * [.zshrc](https://gist.github.com/sirodoht/2d091243d601fbc4f848)
 * [.zshrc.zni](https://gist.github.com/sirodoht/bf0bf951a1e2a27c5d07)
-* [rc.lua](https://gist.github.com/sirodoht/8125005) # awesome wm config file config file
+* [rc.lua](https://gist.github.com/sirodoht/8125005) # awesome wm config file
 
 
 ## Awesome Peeps
