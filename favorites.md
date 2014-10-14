@@ -37,6 +37,7 @@ Favorites
 * [Memory: Why cramming for tests often fails](http://www.bbc.com/future/story/20140917-the-worst-way-to-learn)
 * [Brain: Why exercise boosts IQ](http://www.bbc.com/future/story/20141010-why-exercise-boosts-iq)
 * [Attention](http://www.newyorker.com/tech/elements/anatomy-attention)
+* [These Are the Emails Snowden Sent to First Introduce His Epic NSA Leaks](http://www.wired.com/2014/10/snowdens-first-emails-to-poitras/)
 
 
 ## Wikipedia
